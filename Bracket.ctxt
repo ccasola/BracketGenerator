@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bracket()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bracket\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getBranches()
+comment2.params=idx
+comment2.target=Branch\ getBranchAt(int)
+comment3.params=
+comment3.target=Team\ getWinner()
+comment3.text=\r\n\ Method\ to\ get\ the\ winning\ team\r\n
+comment4.params=list
+comment4.target=java.util.ArrayList\ getWinningList(java.util.ArrayList)
+comment4.text=\r\n\ Method\ to\ pit\ the\ Final\ Four\ teams\ against\ Eachother\r\n\ \r\n\ @return\ Team\ winner\ -\ the\ winning\ team\ of\ the\ tournament\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getFinalFour()
+comment5.text=\r\n\ Method\ to\ get\ the\ final\ teams\ in\ each\ branch\r\n\ \r\n\ @return\ ArrayList\ finalFour\ -\ the\ list\ of\ the\ four\ finalists\ from\ each\ branch\r\n
+comment6.params=team1\ team2
+comment6.target=Team\ matchup(Team,\ Team)
+comment6.text=\r\n\ Method\ to\ match\ teams\ up\ against\ eachother\r\n\ \r\n\ @param\ team1\ -\ first\ team\r\n\ @param\ team2\ -\ second\ team\r\n\ \r\n\ Ties\ go\ through\ recursive\ overtime\r\n\ \r\n\ @return\ winningTeam\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=seed\ branch
+comment0.target=Team(int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Team\r\n
+comment1.params=
+comment1.target=int\ getPower()
+comment1.text=\r\n\ Getter\ for\ power\r\n\ \r\n\ @return\ power\r\n
+comment2.params=
+comment2.target=void\ wonGame()
+comment3.params=
+comment3.target=int\ getGamesWon()
+comment4.params=
+comment4.target=java.lang.String\ getTeamInfo()
+comment5.params=
+comment5.target=int\ getMatchupVal()
+comment5.text=\r\n\ Randomizer\ for\ matchup\ value\r\n\ \r\n\ @return\ a\ random\ int\ value\ based\ on\ power\r\n
+numComments=6

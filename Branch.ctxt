@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=slots\ name
+comment0.target=Branch(int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Branch\r\n\ \r\n\ @param\ int\ slots\ -\ number\ of\ slots\ for\ teams\ in\ a\ branch\r\n\ @param\ String\ name\ -\ The\ name\ of\ the\ "branch"\r\n
+comment1.params=
+comment1.target=Team\ getBranchWinner()
+comment1.text=\r\n\ method\ to\ run\ the\ matchups\ on\ the\ teams\ to\ come\ to\ a\ single\ overall\ winner\r\n\ \r\n\ @return\ branchWinner\r\n
+comment2.params=list
+comment2.target=java.util.ArrayList\ getWinningList(java.util.ArrayList)
+comment2.text=\r\n\ meat\ and\ potatoes\ of\ the\ determining\ the\ winner\ of\ the\ branch\r\n\ \r\n
+comment3.params=idx
+comment3.target=Team\ getTeamAt(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getTeams()
+comment5.params=team1\ team2
+comment5.target=Team\ matchup(Team,\ Team)
+comment5.text=\r\n\ Method\ to\ match\ teams\ up\ against\ eachother\r\n\ \r\n\ @param\ team1\ -\ first\ team\r\n\ @param\ team2\ -\ second\ team\r\n\ \r\n\ Ties\ go\ through\ recursive\ overtime\r\n\ \r\n\ @return\ winningTeam\r\n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\r\n\ Getter\ for\ the\ name\r\n
+numComments=7
